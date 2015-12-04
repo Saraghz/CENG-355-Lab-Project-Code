@@ -4,6 +4,10 @@ This is the code I made and used for my CENG 355 lab project.
 The main.c containts the code I worked on and created. All the other code and headers and files where given to us as part of the lab.
 main.c is in /src/main.c
 
+
+//------------------------------------------------------------------------//
+
+
 The Object of this lab project is given below and was taken from the lab manual. 
 
 You are to develop an embedded system for monitoring and controlling a pulse-widthmodulated
@@ -15,6 +19,10 @@ and relay it to the external optocoupler for controlling the PWM signal frequenc
 microcontroller will also be used to measure the frequency of the generated PWM signal.
 The measured frequency and the corresponding POT resistance are to be displayed on the
 LCD on the PBMCUSLK board. 
+
+
+//------------------------------------------------------------------------//
+
 
 Now the Specifcations of the lab.
 
